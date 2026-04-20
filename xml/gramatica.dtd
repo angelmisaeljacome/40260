@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT tarea (datos, pasos)>
+<!ELEMENT datos (materia, profesor, limiteEntrega)>
+<!ELEMENT materia (#PCDATA)>
+<!ELEMENT profesor (#PCDATA)>
+<!ELEMENT limiteEntrega (fecha, hora)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT hora (#PCDATA)>
+<!ELEMENT pasos (objetivo, division, busqueda, borrador, organizacion, revision, entrega)>
+<!ELEMENT objetivo (#PCDATA)>
+<!ELEMENT division (#PCDATA)>
+<!ELEMENT busqueda (#PCDATA)>
+<!ELEMENT borrador (#PCDATA)>
+<!ELEMENT organizacion (#PCDATA)>
+<!ELEMENT revision (#PCDATA)>
+<!ELEMENT entrega (#PCDATA)>

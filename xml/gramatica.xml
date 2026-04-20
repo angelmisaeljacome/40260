@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tarea SYSTEM "gramatica.dtd">
+<tarea>
+    <datos>
+        <materia>Historia</materia>
+        <profesor>Raul Perez</profesor>
+        <limiteEntrega>
+            <fecha>12/06/2026</fecha>
+            <hora>1:00 p.m.</hora>
+        </limiteEntrega>
+    </datos>
+    <pasos>
+        <objetivo>Realizar un informe del calentamiento glogal</objetivo>
+        <division>Dividir el tema por secciones: introduccion, desarrollo y conclusion</division>
+        <busqueda>Buscar informacion en internet y enciclopedias</busqueda>
+        <borrador>Realizar una version con todo lo recabado</borrador>
+        <organizacion>Seleccionar lo mas importante y reestructurar el formato</organizacion>
+        <revision>Verificar se cumpla con las metricas de la tarea</revision>
+        <entrega>Entregar la tarea en el medio correspondiente y a tiempo</entrega>
+    </pasos>
+</tarea>
