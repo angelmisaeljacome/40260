@@ -1,0 +1,27 @@
+* {
+    bord-sizing: content-box;
+    padding: 0;
+}
+
+button {
+    width: 30px;
+    height: 30px;
+}
+
+button[id = "b0"]{
+    width: 100px;
+    color: red;
+}
+
+div {
+    width: 100px;
+}
+
+input {
+    width: 30%;
+    height: ;
+}
+
+.resultado{
+    color: blue;
+}
